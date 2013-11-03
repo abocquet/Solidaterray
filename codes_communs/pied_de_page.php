@@ -1,0 +1,3 @@
+	<div id="pied_de_page">
+		<p><strong>Créé par PrimProg, 2011</strong></p>
+	</div>
